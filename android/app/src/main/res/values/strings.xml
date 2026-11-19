@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rooster Signal Run</string>
+
+    <string name="splash_title">ROOSTER SIGNAL RUN</string>
+    <string name="splash_subtitle">NIGHT SHIFT COURIER</string>
+    <string name="loading_route">LOADING ROUTE</string>
+    <string name="legal_notice">18+ · VISUAL STYLE ONLY · NO REAL MONEY</string>
+    <string name="brand">CHICKEN ROAD</string>
+    <string name="tagline">READ THE LAMPS. CROSS CLEAN.</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="depot">DEPOT</string>
+    <string name="settings">SETTINGS</string>
+    <string name="tap">TAP</string>
+    <string name="overdrive">OVERDRIVE</string>
+    <string name="buy">BUY</string>
+    <string name="owned">OWNED ✓</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="paused">PAUSED</string>
+
+    <string name="control_hint">TAP TO CROSS · SWIPE DOWN TO SLIDE</string>
+    <string name="shortcut">SHORTCUT</string>
+    <string name="night_badge">NIGHT SHIFT</string>
+    <string name="layer_label">LAYER %1$02d / %2$s</string>
+    <string name="run_stamps">%1$d STAMPS</string>
+    <string name="type_road">ROAD</string>
+    <string name="type_rail">RAIL</string>
+    <string name="type_ferry">FERRY</string>
+
+    <string name="stat_best">BEST</string>
+    <string name="stat_chain">CHAIN</string>
+    <string name="stat_mastery">MASTERY</string>
+    <string name="stat_score">SCORE</string>
+    <string name="stat_distance">DISTANCE</string>
+    <string name="stat_stamps">STAMPS</string>
+
+    <string name="verdict_red_light">RED LIGHT RUN</string>
+    <string name="verdict_gate_down">GATE DOWN</string>
+    <string name="verdict_ferry_miss">MISSED THE FERRY</string>
+    <string name="verdict_lamp_out">LAMP OUT</string>
+    <string name="new_record">NEW RECORD</string>
+    <string name="mastery_gain">MASTERY +%1$d</string>
+    <string name="ghost_ahead">AHEAD OF GHOST BY %1$d LAYERS</string>
+    <string name="ghost_behind">GHOST WON BY %1$d LAYERS</string>
+
+    <string name="mastery_title">ROUTE MASTERY</string>
+    <string name="upgrades_title">DEPOT UPGRADES</string>
+    <string name="depot_empty">NO STAMPS YET — RUN THE ROUTE TO EARN THEM</string>
+    <string name="tier_value">T%1$d</string>
+    <string name="tier_effect">+%1$d%% SCORE · +%2$d MS WINDOW</string>
+    <string name="cost_value">%1$d STAMPS</string>
+    <string name="upgrade_vest">REFLECTIVE VEST</string>
+    <string name="upgrade_vest_effect">One forgiven collision per run.</string>
+    <string name="upgrade_lamp_timer">LAMP TIMER</string>
+    <string name="upgrade_lamp_timer_effect">A countdown marker on the green lamp.</string>
+    <string name="upgrade_cleats">FERRY CLEATS</string>
+    <string name="upgrade_cleats_effect">Ferry alignment window widened by a quarter.</string>
+
+    <string name="night_shift">NIGHT SHIFT</string>
+    <string name="night_shift_explain">Night darkens the route, shrinks the green window and pays one extra stamp per crossing.</string>
+    <string name="night_auto">AUTO</string>
+    <string name="night_always">ALWAYS ON</string>
+    <string name="night_off">OFF</string>
+    <string name="replay_ghost">REPLAY GHOST</string>
+    <string name="replay_ghost_explain">Your best run replays beside you as a red feather rooster.</string>
+    <string name="rookie_assist">ROOKIE ASSIST</string>
+    <string name="rookie_assist_explain">Longer amber warning, score multiplier capped at one and a half.</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_explain">Best run, stamps, upgrades, mastery and the ghost are cleared.</string>
+
+    <string name="state_ready">ready</string>
+    <string name="state_charging">charging</string>
+    <string name="state_locked">not enough stamps</string>
+    <string name="state_selected">selected</string>
+    <string name="state_idle">not selected</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="cd_logo">Route emblem</string>
+    <string name="cd_rooster">Courier rooster</string>
+    <string name="cd_pause">Pause the run</string>
+    <string name="cd_stamps">Route stamps</string>
+</resources>
